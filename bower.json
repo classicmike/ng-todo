@@ -1,0 +1,10 @@
+{
+  "name": "ng2-todo",
+  "description": "",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "https://github.com/classicmike/ng-todo",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
