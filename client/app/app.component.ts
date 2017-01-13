@@ -9,4 +9,6 @@ import { TodoService} from './services/todo.service';
     TodoService
   ]
 })
-export class AppComponent  { name = 'Angular'; }
+export class AppComponent  { 
+  
+}

@@ -37,7 +37,7 @@ var todo = req.body;
             "error": "Invalid Data"
         });
     } else {
-        db.save(todo, function(){
+        db.todos.save(todo, function(err, result){
             if(err){
                 res.send(err);
             } else {
